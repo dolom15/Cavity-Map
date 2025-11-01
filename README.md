@@ -1,1 +1,1 @@
-# Cavity-Map
+# Cavity-Map This code identifies "cavities" in a grid of numbers, marking any cell that is strictly greater than its immediate neighbors (up, down, left, right) with an `'X'`. It preserves the border cells and returns the modified grid as a list of strings.
